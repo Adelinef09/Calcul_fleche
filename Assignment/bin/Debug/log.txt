@@ -1,0 +1,9 @@
+22/09/2021 09:52:45
+Forme Rectangulaire:
+ Longueur = 10
+ Largeur = 10
+ Hauteur = 10
+ Moment quadratique = 10
+ Charge = 10
+ Module d'Young = 83
+ Résultats : Flèche associée : 4,01606425702811 Flèche maximale : 40,1606425702811
